@@ -1,0 +1,22 @@
+{
+  "name": "camunda-modeler-restart-plugin",
+  "version": "0.1.0",
+  "description": "An example plugin for the Camunda Modeler that allows to restart an app from menu",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barmac/camunda-modeler-restart-plugin.git"
+  },
+  "keywords": [
+    "camunda",
+    "modeler",
+    "restart",
+    "plugin"
+  ],
+  "author": "Maciej Barelkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barmac/camunda-modeler-restart-plugin/issues"
+  },
+  "homepage": "https://github.com/barmac/camunda-modeler-restart-plugin#readme"
+}
